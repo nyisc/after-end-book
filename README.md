@@ -52,13 +52,13 @@
 
 ## 加入ISC生态
 <p align="center">
-  <img width="200" src="https://s2.ax1x.com/2020/01/06/ls1o7Q.png">
+  <img width="200" src="./img/ls1o7Q.png">
   <p align="center"><strong>关注南阳理工智慧校园研究院公众号，获取更多开放资源！</strong></p>
 </p>
 
 ## 鼓励项目
 <p align="center">
-<img width="200" src="https://s2.ax1x.com/2020/01/06/lsGgh9.png">
+<img width="200" src="./img/lsGgh9.png">
 </p>
 
 <p align="center"><strong>欢迎支付宝鼓励项目一杯 coffee~</strong></p>
