@@ -17,7 +17,7 @@
 ## 使用方式
 | 语言           | 状态   | 入口 |
 | :------------- | :------------- | :--- |
-| [zh-cn](https://github.com/yeasy/docker_practice)  | [![](https://img.shields.io/badge/version-v0.9-orange)](https://github.com/nyisc/agter-end-book) | [阅读](./SUMMARY.md) |
+| [zh-cn](https://github.com/yeasy/docker_practice)  | [![](https://img.shields.io/badge/version-v0.9-orange)](https://github.com/nyisc/agter-end-book) | [阅读](https://nyisc.github.io/after-end-book/) |
 | [us-en] | [![](https://img.shields.io/badge/version-plan-orange)]()|-|
 
 
